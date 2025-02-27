@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://galiupavezet.lt/</loc>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://galiupavezet.lt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://galiupavezet.lt/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://galiupavezet.lt/ru/"/>
+    <lastmod>2024-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://galiupavezet.lt/en/</loc>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://galiupavezet.lt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://galiupavezet.lt/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://galiupavezet.lt/ru/"/>
+    <lastmod>2024-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://galiupavezet.lt/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://galiupavezet.lt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://galiupavezet.lt/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://galiupavezet.lt/ru/"/>
+    <lastmod>2024-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>
